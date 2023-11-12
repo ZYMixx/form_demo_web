@@ -1,16 +1,21 @@
-# form_demo_web
+# Demo Database Monoplast
 
-web demo version of database app
+Базаданных с возможностью быстрого подсчёта стоимость производства:
 
-## Getting Started
+## [- Cсылка на онлайн демо-версию](https://form-demo-web.web.app)
 
-This project is a starting point for a Flutter application.
+![](https://cdn.discordapp.com/attachments/784688047719579652/1173260669097885777/launchscreen.gif)
 
-A few resources to get you started if this is your first Flutter project:
+Данные хранятся в SQL и добовляются/редактируются в удобном формате:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](https://cdn.discordapp.com/attachments/784688047719579652/1173246397944954940/tablescreen.gif)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Отдельно требоволось чтобы можно было копировать данные и вставлять в Excel с разбивком по столбцам:
+
+![](https://cdn.discordapp.com/attachments/784688047719579652/1173246377388675143/copyscreen.gif)
+
+## [- Cсылка на онлайн демо-версию](https://form-demo-web.web.app)
+
+Здесь представлена весия адаптированая под WEB.
+База данных из SQL перенесена на Firebase Realtime database.
+Даные внутри устаревшие, а все числа прошли рандомайзер.

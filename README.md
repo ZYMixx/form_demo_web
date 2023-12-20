@@ -4,7 +4,7 @@
 
 ## [- Cсылка на онлайн демо-версию](https://form-demo-web.web.app)
 
-![](https://cdn.discordapp.com/attachments/784688047719579652/1173260669097885777/launchscreen.gif)
+![](https://cdn.discordapp.com/attachments/784688047719579652/1173260669097885777/launchscreen.gif) 
 
 Данные хранятся в SQL и добовляются/редактируются в удобном формате:
 

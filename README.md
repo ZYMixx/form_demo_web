@@ -4,15 +4,15 @@
 
 ## [- Cсылка на онлайн демо-версию](https://form-demo-web.web.app)
 
-![](https://cdn.discordapp.com/attachments/784688047719579652/1173260669097885777/launchscreen.gif?ex=662dad65&is=662c5be5&hm=12c0d6a3164a4afc29a1e87f601449a06c5efb93358b687770ff5f9829bac4a6&) 
+![](https://media.discordapp.net/attachments/784688047719579652/1173260669097885777/launchscreen.gif?ex=6644bfa5&is=66436e25&hm=67875111b4550447f666f95ca336eda4606b78abfac8d1748cd0d168ebe5b7ab&=&width=1310&height=701) 
 
 Данные хранятся в SQL и добовляются/редактируются в удобном формате:
 
-![](https://cdn.discordapp.com/attachments/784688047719579652/1173246397944954940/tablescreen.gif?ex=662da01b&is=662c4e9b&hm=a6ab35999df4e6e687b2862f3342399311105d343807746722a1a086f5185143&)
+![](https://media.discordapp.net/attachments/784688047719579652/1173246397944954940/tablescreen.gif?ex=6644b25b&is=664360db&hm=9b8ab2b4f46a969c5bb4f886373a4b0e2a3fba46dea6238fbfac02b47688261a&=&width=1247&height=701)
 
 Отдельно требоволось чтобы можно было копировать данные и вставлять в Excel с разбивком по столбцам:
 
-![](https://cdn.discordapp.com/attachments/784688047719579652/1173246377388675143/copyscreen.gif?ex=662da016&is=662c4e96&hm=95ad95a980312d8531f83d1990ab62122d1e4d64c9504e0e013c3e57f33023ce&)
+![](https://media.discordapp.net/attachments/784688047719579652/1173246377388675143/copyscreen.gif?ex=6644b256&is=664360d6&hm=cd8aa90fd00b28a7cf8d38743b181df68f53cced123dda252c7e70b65b55825c&=&width=1247&height=701)
 
 ## [- Cсылка на онлайн демо-версию](https://form-demo-web.web.app)
 
